@@ -1,0 +1,12 @@
+# Introdução
+
+Antes de compreender o que são processos de qualidade de software, primeiro é necessário definir alguns conceitos e revisar outros.
+Primeiramente, o que é qualidade de software? De forma ainda mais abstrata, o que é qualidade? Qualidade pode ser interpretado no contexto da engenharia como a capacidade de um conjunto de características intrínsecas a um produto final de satisfazer os stakeholders. No contexto geral e no senso comum, é uma escala de valores pela qual é possível atribuir uma etiqueta a algo, caracterizar algo; como as notas fazem no meio acadêmico: notas são uma escala pela qual é possível caracterizar a excelência de um estudante, sendo possível etiquetá-lo como aprovado ou reprovado, qualificado ou desqualificado para seguir em frente. Qualidade de software é um assunto um pouco mais delicado, pois criar métricas para avaliar algo tão complexo como software que de fato o qualifique de maneira válida é uma tarefa complexa. Já existem normas que definem esse conceito: a ISO/IEC 25000 define qualidade de software como a capacidade do produto de software para satisfazer necessidades declaradas e implícitas quando usado em condições especificadas.
+
+Daí surgem muitos outros termos, tais como controle de qualidade, avaliação de qualidade, gestão de qualidade e métrica de qualidade. Claro, todos no âmbito do software.
+- Controle de qualidade: diz respeito a um conjunto de atividades que mede, avalia e relata a qualidade dos artefatos um software.
+- Avaliação de qualidade: exame sistemático e extensão em que um software é capaz de satisfazer necessidades declaradas e implícitas.
+- Gestão de qualidade: atividades coordenadas para direcionar uma organização em relação à qualidade de software.
+- Métrica de qualidade: funções que recebem dados do software como parâmetro e produzem um único número como saída.
+
+Finalmente, após passar por todos esses termos essenciais, é possível falar de fato sobre a garantia de qualidade de software. GQS é um conjunto de atividades que avaliam a aderência e a adequação dos processos de software usados para desenvolver e modificar conjuntos de software. Essa definição é condizente com a definição de processos de qualidade de software, ao qual será referido a partir daqui como PQS. PQS incluem atividades como auditoria, revisão, análises e testes. É um processo que avalia outros processos.

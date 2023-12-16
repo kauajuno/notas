@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "930a6c3e179137f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a33b13d15f7bc3a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a072bdc4ffcd849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISO IEC IEEE 15289.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6fee00313f6ef15",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7f36bc0b9ea8bd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f129d46ecb079e73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "df1785c3928db988",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6718ab31fa316d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ffc9f3b5fa581e1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "866d7ddf03a49dee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a4ca73423426c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ISO IEC IEEE 15289.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f40a9e1438c369ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ISO IEC IEEE 15289.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f560b9a87c8258f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d880c1476f32824a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ISO IEC IEEE 15289.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3a072bdc4ffcd849",
+  "lastOpenFiles": [
+    "ISO IEC IEEE 12207.md",
+    "ISO IEC IEEE 15289.md",
+    "Domínios de Software.md",
+    "ISO IEC IEEE 12207/Processo de Aquisição.md",
+    "Introdução à Programação.md",
+    "PHP/Essencial.md",
+    "PHP.md",
+    "Back-end.md",
+    "Menu.md",
+    "2023-12-15.md",
+    "PHP",
+    "Singleton.md",
+    "Design de Software.md",
+    "ISO IEC IEEE 15289/Itens de Informação.md",
+    "Processos de Qualidade de Software.md",
+    "ISO IEC IEEE 15289/Dados de Ciclo de Vida.md",
+    "ISO IEC IEEE 15289",
+    "ISO IEC IEEE 12207",
+    "ISO/IEC/IEE 12207.md",
+    "ISO/IEC",
+    "ISO",
+    "ISO/IEC/IEEE 12207.md",
+    "Gerência de Projeto de Software.md",
+    "images/decorationassets.md",
+    "images/decorationassets/banner.png",
+    "images/decorationassets",
+    "Factory Method.md",
+    "images/singletonclassdiagram.png",
+    "images/factorymethodclassdiagram.png",
+    "images"
+  ]
+}
