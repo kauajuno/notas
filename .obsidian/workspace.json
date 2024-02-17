@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "0a7e3cc2f3b63496",
+    "type": "split",
+    "children": [
+      {
+        "id": "77a49b6b4750525e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5483032d6ef6c652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Tipos Numéricos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a16694b516ab98bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e57ca744c8dc57d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8afd12bf379e7b03",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea2b4f7456bb3088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56c15c22f45b8cc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67415bad9524ee9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9eb64ecf4c8f064a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a073e706cea9c7c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb00c297ee31705c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "177ccb1db93f1591",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/Tipos Numéricos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd82268271f41452",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/Tipos Numéricos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61f4bafa929da31a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "95d3dbb04f362163",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/Tipos Numéricos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5483032d6ef6c652",
+  "lastOpenFiles": [
+    "Python/Fundamentos.md",
+    "Python/Tipos Numéricos.md",
+    "Python.md",
+    "Python",
+    "Linguagens de Programação.md",
+    "Menu.md"
+  ]
+}

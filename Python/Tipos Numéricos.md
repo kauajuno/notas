@@ -1,0 +1,1 @@
+Os tipos numéricos do Python armazenam valores... que são números. Daí existem diferentes tipos numéricos e diferentes coisas que podem ser feitas com eles.
